@@ -6,4 +6,5 @@ coverage
 *.log
 
 *.tgz
+*.iml
 /.DS_Store
